@@ -14,5 +14,6 @@
   --font-family:  'IBM Plex Mono';
   --color-header-title: rgba(219, 0, 255, 1);
   --color-border-button: rgba(255, 0, 112, 0.4);
+  --color-border-button-active: rgba(255, 0, 112, 1);
   --color-button: rgba(255, 0, 112, 1);
 }

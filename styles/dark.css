@@ -12,6 +12,15 @@
   --bg-page: url(../images/cover-image-dark.png);
   --accent-color: rgba(255, 0, 112, 1);
   --bg-color: rgba(0, 0, 40, 1);
-  --color-title-decor: rgba(0, 0, 40, 1);
+  --color-title-decor: rgba(255, 0, 112, 1);
+  --color-section-title: rgba(255, 0, 112, 1);
+  --color-card-title: rgba(0, 0, 40, 1);
+  --color-header-text: rgba(0, 0, 40, 1);
   --color-text: rgba(241, 178, 206, 1);
+  --font-family:  'IBM Plex Mono';
+  --color-header-title: rgba(219, 0, 255, 1);
+  --color-border-button: rgba(255, 0, 112, 0.4);
+  --color-border-button-active: rgba(255, 0, 112, 1);
+  --color-button: rgba(255, 0, 112, 1);
 }
+
