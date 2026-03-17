@@ -44,7 +44,10 @@
     --color-border-button-active: rgba(53, 52, 48, 1);
     --color-button: rgba(53, 52, 48, 1);
   }
-  .theme-light .rec {
+  .rec {
     display: none;
+  }
+  .theme-dark .rec {
+    display: block;
   }
 }
