@@ -47,7 +47,4 @@
   .rec {
     display: none;
   }
-  .theme-dark .rec {
-    display: block;
-  }
 }

@@ -17,10 +17,15 @@
   --color-card-title: rgba(0, 0, 40, 1);
   --color-header-text: rgba(0, 0, 40, 1);
   --color-text: rgba(241, 178, 206, 1);
-  --font-family:  'IBM Plex Mono';
+  --font-family: "IBM Plex Mono";
   --color-header-title: rgba(219, 0, 255, 1);
   --color-border-button: rgba(255, 0, 112, 0.4);
   --color-border-button-active: rgba(255, 0, 112, 1);
   --color-button: rgba(255, 0, 112, 1);
 }
 
+@media (prefers-color-scheme: light) {
+  .theme-dark .rec {
+    display: block;
+  }
+}
